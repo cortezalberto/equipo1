@@ -1,2 +1,2 @@
 # equipo1
-Soy el programador 2
+Soy el desarrollo
